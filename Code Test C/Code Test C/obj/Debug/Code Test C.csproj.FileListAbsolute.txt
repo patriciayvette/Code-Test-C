@@ -1,0 +1,6 @@
+E:\program\Code Test C\Code Test C\bin\Debug\Code Test C.exe.config
+E:\program\Code Test C\Code Test C\bin\Debug\Code Test C.exe
+E:\program\Code Test C\Code Test C\bin\Debug\Code Test C.pdb
+E:\program\Code Test C\Code Test C\obj\Debug\Code Test C.csproj.CoreCompileInputs.cache
+E:\program\Code Test C\Code Test C\obj\Debug\Code Test C.exe
+E:\program\Code Test C\Code Test C\obj\Debug\Code Test C.pdb
